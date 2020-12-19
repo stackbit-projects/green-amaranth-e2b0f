@@ -4,7 +4,8 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/pngtree-dark-studio-grey-gradient-background-image_355917.jpg
+    background_image: >-
+      images/gradient-wallpapers-desktop-gradient-grey-wallpaper-generator-iphone-5-android-maker-wallpapers-hd-ios-7-deviantart-ipad.webp
     background_image_opacity: 80
     content: >-
       # Securemail
