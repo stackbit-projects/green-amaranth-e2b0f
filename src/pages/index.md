@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/Rb82AK.jpg
+    background_image: images/Light-Blue-Background-1280x720.jpg
     background_image_opacity: 80
     content: >-
       # Securemail
